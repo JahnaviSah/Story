@@ -1,0 +1,3 @@
+i
+this is my first tym with VIM.
+
